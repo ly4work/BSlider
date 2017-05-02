@@ -18,7 +18,8 @@
 ```
 ```
 // index.html 示例结构
-    <div class="bannerBox">
+
+    	<div class="bannerBox">
 		<ul id="bannerWrap">
 			<li class="bannerItem"><img src="../images/1.jpg" /></li>
 			<li class="bannerItem"><img src="../images/2.jpg" /></li>
@@ -34,20 +35,6 @@
 			<li class="pointItem"></li>
 		</ol>
 	</div>
-    <div class="demo">
-        <ul id="bannerWrap">
-            <li class="bannerItem"><a href="#"><img src="" /></a></li>
-            <li class="bannerItem"><a href="#"><img src="" /></a></li>
-            <li class="bannerItem"><a href="#"><img src="" /></a></li>
-            <li class="bannerItem"><a href="#"><img src="" /></a></li>
-        </ul>
-        <ul id="pointsWrap">
-            <li class="pointItem on"></li>
-            <li class="pointItem"></li>
-            <li class="pointItem"></li>
-            <li class="pointItem"></li>
-        </ul>
-    </div>
 ```
 ```
 // banner.css  示例样式
