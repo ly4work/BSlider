@@ -18,6 +18,7 @@
 ```
 // index.html 示例结构
     ...
+<<<<<<< HEAD
     <div class="bannerBox">
 		<ul id="bannerWrap">
 			<li class="bannerItem"><img src="../images/1.jpg" /></li>
@@ -34,6 +35,22 @@
 			<li class="pointItem"></li>
 		</ol>
 	</div>
+=======
+    <div class="demo">
+        <ul id="bannerWrap">
+            <li class="bannerItem"><a href="#"><img src="" /></a></li>
+            <li class="bannerItem"><a href="#"><img src="" /></a></li>
+            <li class="bannerItem"><a href="#"><img src="" /></a></li>
+            <li class="bannerItem"><a href="#"><img src="" /></a></li>
+        </ul>
+        <ul id="pointsWrap">
+            <li class="pointItem on"></li>
+            <li class="pointItem"></li>
+            <li class="pointItem"></li>
+            <li class="pointItem"></li>
+        </ul>
+    </div>
+>>>>>>> 57351774fd0ac06f16f41166092bdbd2b5ccd46b
     ...
 ```
 ```
