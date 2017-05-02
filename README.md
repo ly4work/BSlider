@@ -5,10 +5,10 @@
     ...
     <div class="demo">
         <ul id="bannerWrap">
-            <li class="bannerItem"><a href=""><img src="" /></li>
-            <li class="bannerItem"><a href=""><img src="" /></li>
-            <li class="bannerItem"><a href=""><img src="" /></li>
-            <li class="bannerItem"><a href=""><img src="" /></li>
+            <li class="bannerItem"><a href="#"><img src="" /></a></li>
+            <li class="bannerItem"><a href="#"><img src="" /></a></li>
+            <li class="bannerItem"><a href="#"><img src="" /></a></li>
+            <li class="bannerItem"><a href="#"><img src="" /></a></li>
         </ul>
         <ul id="pointsWrap">
             <li class="pointItem on"></li>
