@@ -36,7 +36,9 @@ h3 {
 	height: 8px;
 	border-radius: 4px;
 	background-color: white;
+	transition: all 0.2s;
 }
 #pointsWrap .pointItem.on {
+	width: 16px;
 	background-color: #148be0;
 }
